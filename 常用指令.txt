@@ -1,0 +1,1 @@
+python convermodel.py -w yolov3.cfg yolov3.weights model_data/yolo_weights.h5
